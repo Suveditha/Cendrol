@@ -1,0 +1,32 @@
+div {
+  background-color: #f1fbca;
+  
+}
+
+table {
+    border: 10px solid rgb(219, 160, 219);
+    width: 800px;
+    height: 200px;
+}
+
+.high {
+    color: rgb(111, 38, 38);
+    font-family: "Lucida Console";
+}
+
+th {
+    border: 5px solid rgb(219, 160, 219);
+    
+}
+
+.font {
+    font-family: "Papyrus";
+    color: rgb(68, 68, 172);
+    font-weight: bolder;
+}
+
+td {
+    border: 5px solid rgb(219, 160, 219);
+    color: cornflowerblue;
+    text-align: center;
+}
